@@ -36,6 +36,7 @@ This repository documents the basic environment verification performed on the la
 - **Command:** `ping www.google.com`
 - **Explanation:** Verifies connectivity by sending ICMP packets to Google.
 
+
 ### 9. System Health Awareness
 - **Command:** `uptime`
 - **Explanation:** Checks system uptime duration, number of users, and load average.
